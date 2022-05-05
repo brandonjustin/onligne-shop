@@ -730,7 +730,7 @@ border-radius: 10px;
 }
 .hov-text{
     margin-top: -95px;
-    transform: translate(90px,-60px);
+    transform: translate(90px,18px);
     font-weight: 700;
     color: var(--Dark-grayish-blue);
 }
